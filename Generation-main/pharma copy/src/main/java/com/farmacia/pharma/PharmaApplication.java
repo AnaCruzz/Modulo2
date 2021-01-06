@@ -1,13 +1,13 @@
-package com.farmacia.farma;
+package com.farmacia.pharma;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FarmaApplication {
+public class PharmaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FarmaApplication.class, args);
+		SpringApplication.run(PharmaApplication.class, args);
 	}
 
 }
